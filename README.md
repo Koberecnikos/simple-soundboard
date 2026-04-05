@@ -1,4 +1,4 @@
-<img width="1327" height="791" alt="image" src="https://github.com/user-attachments/assets/6e85954b-3691-4424-abd0-484dd3616cff" /># Simple soundboard
+# Simple soundboard
 **A simple soundboard for in game music, sound effects and other ear pleasures for you enemies :)**
 
 Licence: [![License: PolyForm Noncommercial 1.0](https://img.shields.io/badge/License-PolyForm_NC_1.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
